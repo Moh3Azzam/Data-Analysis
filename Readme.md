@@ -1,3 +1,4 @@
-## Data analysis
+Data Analysis
+=======
 
-* Iris Dataset analysis
+* Iris Dataset Analysis
